@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Career_Couching](https://career-couching.netlify.app/).
+
+##Description
+- People can login with Google and also register with email and  password.  
+- They can purchase any services.  
+- Customer able to see their perches service details by clicked on  purchase button.  
+- They can explore more about service
 
 ## Available Scripts
 
